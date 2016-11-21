@@ -27,6 +27,8 @@ body {
     /* Set the fixed height of the footer here */
     height: 100px;
     background-color: #f9d334;
+    clear: both;
+    position: relative;
 }
 
 
@@ -55,9 +57,4 @@ code {
 
 .btn-on-blue {
     background: #56555a;
-}
-
-img {
-    width: 100%;
-    height: auto;
 }
