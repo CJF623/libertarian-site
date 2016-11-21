@@ -52,3 +52,12 @@ body > .container {
 code {
     font-size: 80%;
 }
+
+.btn-on-blue {
+    background: #56555a;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
