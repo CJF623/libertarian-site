@@ -20,11 +20,13 @@ body {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
 }
-header{
-background-image: url(/images/index-background.jpg);
-    color: #f9d334;
 
+header {
+    background-image: url(/images/index-background.jpg);
+    color: #f9d334;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
 }
+
 .footer {
     bottom: 0;
     width: 100%;
@@ -61,4 +63,8 @@ code {
 
 .btn-on-blue {
     background: #56555a;
+}
+
+.h3-center {
+    text-align: center;
 }
