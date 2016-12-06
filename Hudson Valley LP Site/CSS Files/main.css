@@ -7,6 +7,22 @@ span.glyphicon {
     color: #f9d334;
 }
 
+.btn-yahoo {
+    background-color: #400090;
+}
+
+.btn-yahoo:hover {
+    background-color: #440088;
+}
+
+.btn-meetup {
+    background-color: #e11a3d;
+}
+
+.btn-meetup:hover {
+    background-color: #d0092a;
+}
+
 
 /* Sticky footer styles
 -------------------------------------------------- */
