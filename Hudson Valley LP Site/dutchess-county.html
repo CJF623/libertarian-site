@@ -46,12 +46,19 @@
     <!--Custom Theme JavaScript-->
     <script src="/JavaScript%20Files/creative.js "></script>
     <style>
-        a {
+        #places-list a {
             color: white;
+            text-decoration: underline;
         }
         
-        a:hover {
+        #places-list a:hover {
             color: lightgrey;
+        }
+        #places-list a:active {
+            color: lightgrey;
+        }
+        #places-list a:visited {
+            color: grey;
         }
     </style>
 
@@ -110,7 +117,7 @@
     <section class="bg-primary" id="dutchess">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
+                <div class="col-lg-8 col-lg-offset-2 text-center" id="places-list">
                     <h1 class="section-heading">Dutchess County</h1>
                     <hr class="light">
                     <p class="text-faded">
