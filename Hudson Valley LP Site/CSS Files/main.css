@@ -38,7 +38,8 @@ body {
 }
 
 header {
-    background-image: url(/images/index-background.jpg);
+/*    background-image: url(/images/index-background.jpg);*/
+    background-image: url("http://res.cloudinary.com/hudsonvalleylp/image/upload/v1483253700/index-background_wtmude.png");
     color: #f9d334;
     text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
 }
